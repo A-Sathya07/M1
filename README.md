@@ -150,7 +150,7 @@ int main()
 ```
 
 ## OUTPUT:
-![alt text](image4.png)
+![alt text](img4.png)
 
 
 ## RESULT:
